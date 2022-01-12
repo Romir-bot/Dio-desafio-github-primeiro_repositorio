@@ -1,0 +1,1 @@
+Link pra baixar o git (https://git-scm.com/) e o link para saber mais o markdown (https://www.markdownguide.org/sintaxe-basic/)
